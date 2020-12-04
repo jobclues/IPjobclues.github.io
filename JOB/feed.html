@@ -1,0 +1,30 @@
+<html>
+
+<head>
+    <title>AvailableJobs</title>
+    <link type="text/css" rel="stylesheet" href="https://www.gstatic.com/firebasejs/ui/4.6.1/firebase-ui-auth.css" />
+    <link rel="stylesheet" type="text/css" href="./css/feed.css">
+
+</head>
+
+<body>
+
+    <button type="button" id="select" class="b" onclick="show();">SHOW AVAILABLE JOBS</button>
+    <div id="feed">
+    </div>
+
+    <button type="button" class="b" onclick="GoogleLogout();">SIGN OUT</button>
+
+    <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-analytics.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.1.1/firebase-database.js"></script>
+
+    <script src="./js/init-firebase.js"></script>
+
+    <script src="./js/crud.js"></script>
+    <script src="./js/google.js"></script>
+</body>
+
+</html>

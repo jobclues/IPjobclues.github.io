@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.b{
+	width: 80%;
+	margin-left: 130px;
+	border: none;
+	margin-top: 20px;
+	line-height: 40px;
+	font-family: corbel;
+	font-size: 20px;
+	border-radius: 8px;
+}
+.b:hover{
+	background-color: #484D50;
+	color: white;
+}

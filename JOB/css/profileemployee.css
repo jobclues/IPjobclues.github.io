@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.c1{
+	width: 40%;
+	background-color: #D5D2CB ;
+	padding: 30px;
+	margin-top: 0px;
+	height: 480px;
+}
+.h{
+	padding: 30px;
+	width: 50%;
+}
+.h a{
+	font-family: corbel;
+	font-size: 30px;
+}
+.z{
+	font-family: corbel;
+	font-size: 20px;
+}
+.y{
+	background-color: white;
+	border: none;
+	padding: 5px;
+	width: 50%;
+}
+.k{
+	padding: 10px;
+	font-family: corbel;
+	font-size: 20px;
+}
+.img{
+	width: 60%;
+	height: 540px;
+	float: right;
+	top: 130px;
+	background-image: url('employee.jpg');
+	background-size: cover;
+}
+.img a{
+	font-size: 50px;
+	font-family: corbel;
+	color: white;
+	margin-top: 150px;
+	margin-left: 500px;
+	float: right;
+}

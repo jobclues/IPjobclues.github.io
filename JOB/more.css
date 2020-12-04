@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.c1{
+	display: flex;
+}
+.c4{
+	text-align: center;
+	margin-left: 50px;
+	margin-top: 0px;
+	padding: 10px;
+
+}
+.c4 p{
+	font-family: corbel;
+	font-size: 30px;
+
+}
+.c6{
+	text-align: center;
+}
+.c5{
+	margin-left: 10px;
+	font-family: corbel;
+	padding: 20px;
+}
+.c7{
+	margin-left: 90px;
+	font-family: corbel;
+	padding: 20px;
+}
+.c8{
+	font-family: corbel;
+	line-height: 25px;
+}
